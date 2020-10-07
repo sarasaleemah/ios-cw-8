@@ -10,8 +10,9 @@ import UIKit
 
 class MovieDetailsViewController: UIViewController {
     
+    var movieData : moviesModel!
     
-    var movieData : moviesModel = moviesModel(name: "Joker", release: 2000, actors: [""], rating: 10.0, rated: "PG-13")
+//    var movieData : moviesModel = moviesModel(name: "Joker", release: 2000, actors: [""], rating: 10.0, rated: "PG-13")
     
     @IBOutlet weak var movieImg: UIImageView!
     @IBOutlet weak var movieName: UINavigationItem!

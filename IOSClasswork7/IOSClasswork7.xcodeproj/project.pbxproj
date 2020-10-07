@@ -14,6 +14,7 @@
 		048ADADE248EF04800AB3BA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 048ADADC248EF04800AB3BA5 /* LaunchScreen.storyboard */; };
 		048ADAEA2490F9C400AB3BA5 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048ADAE92490F9C400AB3BA5 /* MovieDetailsViewController.swift */; };
 		048ADAEC2490F9F900AB3BA5 /* MoviesDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048ADAEB2490F9F900AB3BA5 /* MoviesDataModel.swift */; };
+		6780BCEE252E24500049A010 /* detailsTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6780BCED252E24500049A010 /* detailsTableVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		048ADADF248EF04800AB3BA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		048ADAE92490F9C400AB3BA5 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		048ADAEB2490F9F900AB3BA5 /* MoviesDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviesDataModel.swift; sourceTree = "<group>"; };
+		6780BCED252E24500049A010 /* detailsTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsTableVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			children = (
 				048ADAD1248EF04400AB3BA5 /* AppDelegate.swift */,
 				048ADAD3248EF04400AB3BA5 /* SceneDelegate.swift */,
+				6780BCED252E24500049A010 /* detailsTableVC.swift */,
 				040FC8C62492F84C00CC6A88 /* Storyboard */,
 				048ADAEE2490FA1800AB3BA5 /* Model */,
 				048ADAED2490FA0A00AB3BA5 /* viewController */,
@@ -169,6 +172,7 @@
 				048ADAEA2490F9C400AB3BA5 /* MovieDetailsViewController.swift in Sources */,
 				048ADAD2248EF04400AB3BA5 /* AppDelegate.swift in Sources */,
 				048ADAD4248EF04400AB3BA5 /* SceneDelegate.swift in Sources */,
+				6780BCEE252E24500049A010 /* detailsTableVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
